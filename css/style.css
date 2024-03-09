@@ -1,0 +1,26 @@
+.maincontents{
+    width: 800px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
+
+
+div{
+    background-color: aqua;
+    color: aliceblue;
+    width: 500px;
+    height: 200px;
+}
+#box1{
+    background-color: blueviolet;
+}
+
+.box2{
+    background-color: brown;
+}
+
+span{
+    background-color: blue;
+    color: aliceblue;
+}
